@@ -20,7 +20,7 @@ Criado por [@cauhi](https://www.instagram.com/cauhi) · [cauhi.com](https://cauh
 ## Como instalar
 
 **No claude.ai (mais fácil)**
-1. Baixe este repositório (botão verde **Code → Download ZIP**).
+1. Baixe o [`cinema-receita.zip`](https://github.com/pcauhi/cinema-receita/releases/latest/download/cinema-receita.zip).
 2. No Claude, vá em **Configurações → Capacidades → Skills** e envie o `.zip`.
 3. Abra um chat novo.
 
